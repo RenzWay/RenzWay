@@ -16,12 +16,13 @@ Saya seorang fullstack developer yang haus akan pengetahuan baru dan berkomitmen
 
 Berikut adalah teknologi dan alat yang saya kuasai atau sedang saya pelajari:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,java,nodejs,react,mongodb,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,java,nodejs,react,nextjs,git,vscode)](https://skillicons.dev)
 
 - **HTML, CSS, JavaScript**: Fondasi pengembangan web.
 - **Python**: Untuk _backend_ dan _scripting_.
-- **Java**: Untuk pengembangan aplikasi, mungkin _backend_ atau Android?
-- **(Tambahkan jika ada)** Node.js, React, Express.js, MongoDB, SQL, Git, Docker, dll.
+- **Java**: Untuk pengembangan aplikasi.
+- **React**: Untuk library membuat sebuah web.
+- **Next js**: Framework yang aku gunakan untuk membuat web fullstack.
 
 ---
 
@@ -30,26 +31,27 @@ Berikut adalah teknologi dan alat yang saya kuasai atau sedang saya pelajari:
 - 👩‍💻 **Saat ini saya sedang mengerjakan...**
 
   - Sebuah aplikasi e-commerce menggunakan React dan Node.js.
-  - Membangun API RESTful dengan Python Flask/Django.
-  - _(Isi dengan proyek nyata yang sedang kamu kerjakan!)_
+  - Membangun API RESTful.
+  - Membuat aplikasi untuk menambah portofolio.
+  - Membangun web app kecil-kecilan
 
 - 🧠 **Saya sedang belajar...**
 
   - Konsep-konsep advanced di React Hooks.
   - Desain sistem untuk aplikasi skala besar.
-  - _(Sebutkan topik spesifik yang kamu pelajari, misalnya Next.js, Kubernetes, Machine Learning, dsb.)_
+  - Backend pakai nodejs dan express js.
+  - Belajar bahasa lain jg
 
 - 👯‍♀️ **Saya terbuka untuk berkolaborasi pada...**
 
   - Proyek open-source yang melibatkan pengembangan web fullstack.
   - Aplikasi yang berfokus pada efisiensi dan _user experience_.
-  - _(Sebutkan jenis proyek kolaborasi yang kamu minati.)_
 
-- 🤔 **Saya sedang mencari bantuan dengan...**
+<!-- - 🤔 **Saya sedang mencari bantuan dengan...**
 
   - Optimasi performa database untuk proyek skala besar.
   - Memahami arsitektur _microservices_ lebih dalam.
-  - _(Jangan ragu untuk bertanya, ini menunjukkan kamu mau belajar.)_
+  - _(Jangan ragu untuk bertanya, ini menunjukkan kamu mau belajar.)_ -->
 
 - 💬 **Tanyakan saya tentang...**
 
@@ -59,20 +61,17 @@ Berikut adalah teknologi dan alat yang saya kuasai atau sedang saya pelajari:
 
 - 📫 **Bagaimana cara menghubungi saya?**
 
-  - Lewat LinkedIn: [Link ke LinkedIn-mu]
-  - Kirim email: renz.way@email.com _(Ganti dengan email aslimu)_
+  - **Belum tersedia**
 
 - ⚡️ **Fakta seru:**
-  - Saya bisa memecahkan Rubik's Cube dalam waktu kurang dari dua menit!
-  - Saya suka mencoba resep masakan baru di waktu luang.
-  - _(Bisa hal terkait coding, atau hobi unikmu.)_
+  - Hobiku olahraga
+  - Aku suka mencoba resep masakan baru di waktu luang.
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mahasiswa-pied.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
 
 ## Badges
 
