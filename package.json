@@ -1,0 +1,35 @@
+{
+  "name": "renzway",
+  "version": "1.0.0",
+  "description": "Seorang **Fullstack Developer** yang selalu bersemangat untuk belajar dan berkembang.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenzWay/RenzWay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenzWay/RenzWay/issues"
+  },
+  "homepage": "https://github.com/RenzWay/RenzWay#readme",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@vitejs/plugin-react": "^4.6.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.3",
+    "tailwindcss": "^4.1.11",
+    "typed.js": "^2.1.0",
+    "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "react-icons": "^5.5.0"
+  }
+}
