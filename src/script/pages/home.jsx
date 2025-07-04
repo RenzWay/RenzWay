@@ -15,7 +15,8 @@ export default function HomePage() {
   useEffect(() => {
     const typed = new Typed(el.current, {
       strings: [
-        `passionate about building <b>beautiful</b> and <b>functional</b>\n        web apps. Always learning, always creating.`,
+        `passionate about building <b>beautiful</b> and <b>functional</b>\n        
+        web apps. Always learning, always creating.`,
       ],
       typeSpeed: 10,
     });
@@ -60,7 +61,7 @@ export default function HomePage() {
           <img
             src="https://i.pravatar.cc/40?img=3"
             alt="Logo"
-            className="w-10 h-10 md:w-12 md:h-12 rounded-full border-2 border-indigo-400 object-cover"
+            className="w-10 h-10 md:w-12 md:h-12 rounded-full border-2 border-indigo-400 object-cover image"
           />
           <span className="text-2xl md:text-3xl font-bold text-gray-900">
             RenzWay
@@ -191,7 +192,7 @@ export default function HomePage() {
         <img
           src="https://i.pravatar.cc/300?img=3" // Gambar profil yang lebih besar
           alt="Profile"
-          className="w-72 h-72 md:w-96 md:h-96 rounded-full object-cover shadow-2xl border-4 border-indigo-400 transform hover:scale-105 transition-transform duration-300"
+          className="w-72 h-72 md:w-96 md:h-96 rounded-full object-cover shadow-2xl border-4 border-indigo-400 transform hover:scale-105 transition-transform duration-300 "
           id="profile"
         />
       </div>
