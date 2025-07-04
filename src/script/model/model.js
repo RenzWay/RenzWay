@@ -13,6 +13,20 @@ export const project = [
     tools: ["Javascript", "HTML", "CSS"],
     link: "https://renzway.github.io/Todo/",
   },
+  {
+    id: 3,
+    title: "Webpack Starter",
+    description: `Template starter untuk membuat web memakai webpack, tinggal pakai`,
+    tools: ["Javascript", "HTML", "CSS", "Webpack", "Babel"],
+    link: "https://github.com/RenzWay/webpack-starter",
+  },
+  {
+    id: 4,
+    title: "Clock Vanilla",
+    description: `Website menampilkan jam analog berbasis vanilla`,
+    tools: ["Javascript", "HTML", "CSS"],
+    link: "https://renzway.github.io/clock-vanilla/",
+  },
 ];
 
 export const skills = [
@@ -31,4 +45,6 @@ export const skills = [
   "CSS",
   "Java",
   "Kotlin",
+  "Webpack",
+  "Vite",
 ];

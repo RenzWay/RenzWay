@@ -9,6 +9,46 @@ import {
 import { HiOutlineSparkles, HiOutlineBriefcase } from "react-icons/hi"; // Ikon tambahan jika diperlukan
 import Typed from "typed.js";
 
+// Fungsi untuk menentukan warna badge tools
+function getToolColor(tool) {
+  switch (tool.toLowerCase()) {
+    case "react":
+    case "reactjs":
+      return "bg-blue-100 text-blue-600";
+    case "nextjs":
+      return "bg-gray-900 text-white";
+    case "tailwindcss":
+      return "bg-sky-100 text-sky-500";
+    case "nodejs":
+    case "node":
+      return "bg-green-100 text-green-600";
+    case "javascript":
+      return "bg-yellow-100 text-yellow-700";
+    case "typescript":
+      return "bg-blue-100 text-blue-800";
+    case "html":
+      return "bg-red-100 text-rose-500";
+    case "css":
+      return "bg-sky-100 text-blue-500";
+    case "webpack":
+      return "bg-[#8DD6F9] text-[#222222]";
+    case "babel":
+      return "bg-yellow-200 text-yellow-800";
+    case "vite":
+      return "bg-gradient-to-r from-yellow-400 via-purple-400 to-blue-400 text-white";
+    case "eslint":
+      return "bg-purple-100 text-purple-700";
+    case "prettier":
+      return "bg-orange-100 text-orange-700";
+    case "redux":
+      return "bg-purple-200 text-purple-800";
+    case "express":
+      return "bg-gray-300 text-gray-800";
+    default:
+      return "bg-gray-200 text-gray-700";
+  }
+}
+
 export default function HomePage() {
   const [navOpen, setNavOpen] = useState(false);
   const el = useRef(null);
@@ -27,45 +67,25 @@ export default function HomePage() {
     };
   }, []);
 
-  // Fungsi untuk menentukan warna badge tools
-  function getToolColor(tool) {
-    switch (tool.toLowerCase()) {
-      case "react":
-      case "reactjs":
-        return "bg-blue-100 text-blue-600";
-      case "nextjs":
-        return "bg-gray-900 text-white";
-      case "tailwindcss":
-        return "bg-sky-100 text-sky-500";
-      case "nodejs":
-      case "node":
-        return "bg-green-100 text-green-600";
-      case "javascript":
-        return "bg-yellow-100 text-yellow-700";
-      case "typescript":
-        return "bg-blue-100 text-blue-800";
-      case "html":
-        return "bg-red-100 text-rose-500";
-      case "css":
-        return "bg-sky-100 text-blue-500";
-      default:
-        return "bg-gray-200 text-gray-700";
-    }
-  }
-
   return (
-    <section className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex flex-col font-sans">
+    <section
+      id="header"
+      className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex flex-col font-sans"
+    >
       {/* Header */}
-      <header className="flex items-center justify-between px-6 md:px-12 py-4 md:py-6 bg-white bg-opacity-90 backdrop-blur-sm shadow-lg z-10 sticky top-0">
+      <header className="flex items-center justify-between px-6 md:px-12 py-4 md:py-6 bg-white bg-opacity-90 backdrop-blur-sm shadow-lg z-10 sticky top-0 cursor-pointer">
         <div className="flex items-center gap-3">
           <img
             src="https://i.pravatar.cc/40?img=3"
             alt="Logo"
             className="w-10 h-10 md:w-12 md:h-12 rounded-full border-2 border-indigo-400 object-cover image"
           />
-          <span className="text-2xl md:text-3xl font-bold text-gray-900">
+          <a
+            href="#header"
+            className="text-2xl md:text-3xl font-bold text-gray-900"
+          >
             RenzWay
-          </span>
+          </a>
         </div>
         {/* Desktop Nav */}
         <nav className="hidden sm:flex gap-4 md:gap-8">
