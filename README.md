@@ -1,6 +1,5 @@
 # Halo, aku Renz! 👋
 
-# Halo 👋, Saya Renz!
 
 Seorang **Fullstack Developer** yang selalu bersemangat untuk belajar dan berkembang.
 
