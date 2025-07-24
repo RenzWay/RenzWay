@@ -2,7 +2,7 @@ export const project = [
   {
     id: 1,
     title: "Mahasiswa Center",
-    description: `Web app untuk catat harian mahasiswa`,
+    description: `Web app untuk catat harian mahasiswa ⚠️masih tahap development belum jadi sepenuhnya`,
     tools: ["Nextjs", "Tailwindcss", "Nodejs"],
     link: "https://mahasiswa-pied.vercel.app/",
   },
@@ -18,7 +18,7 @@ export const project = [
     title: "Webpack Starter",
     description: `Template starter untuk membuat web memakai webpack, tinggal pakai`,
     tools: ["Javascript", "HTML", "CSS", "Webpack", "Babel"],
-    link: "https://github.com/RenzWay/webpack-starter",
+    link: "https://renzway.github.io/webpack-starter/",
   },
   {
     id: 4,
@@ -26,6 +26,13 @@ export const project = [
     description: `Website menampilkan jam analog berbasis vanilla`,
     tools: ["Javascript", "HTML", "CSS"],
     link: "https://renzway.github.io/clock-vanilla/",
+  },
+  {
+    id: 5,
+    title: "GoNote",
+    description: "Werbsite Todolist versi lite dari mahasiswa center",
+    tools: ["React", "Webpack", "Babel", "SCSS", "Tailwindcss"],
+    link: "https://gonote-center.vercel.app/",
   },
 ];
 

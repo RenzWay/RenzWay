@@ -308,15 +308,15 @@ export default function HomePage() {
           </p>
           <p className="mb-4">
             Dengan latar belakang yang kuat di <b>front-end development</b> dan
-            minat yang mendalam pada <b>UI/UX design</b>, saya terus berinovasi
-            dan mencari cara baru untuk meningkatkan pengalaman pengguna. Saya
-            percaya pada kekuatan belajar seumur hidup dan selalu mencari
-            tantangan baru untuk mengasah kemampuan.
+            minat yang mendalam pada <b>UI/UX design</b> dan{" "}
+            <b>back-end development</b>, saya terus berinovasi dan mencari cara
+            baru untuk meningkatkan pengalaman pengguna. Saya percaya pada
+            kekuatan belajar seumur hidup dan selalu mencari tantangan baru
+            untuk mengasah kemampuan.
           </p>
           <p>
-            Selain coding, saya menikmati mendaki gunung, bermain game, dan
-            mengeksplorasi teknologi baru. Mari berkolaborasi dan wujudkan
-            ide-ide brilian Anda!
+            Selain coding, saya suka bermain game, dan mengeksplorasi teknologi
+            baru. Mari berkolaborasi dan wujudkan ide-ide brilian Anda!
           </p>
         </div>
       </section>
