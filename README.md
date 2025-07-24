@@ -1,81 +1,76 @@
-# Halo, aku Renz! 👋
+# Halo, saya Renz! 👋
 
-
-Seorang **Fullstack Developer** yang selalu bersemangat untuk belajar dan berkembang.
-
----
-
-## 🚀 Tentang Saya
-
-Saya seorang fullstack developer yang haus akan pengetahuan baru dan berkomitmen untuk terus meningkatkan keterampilan saya melalui setiap tantangan dan kesalahan yang saya hadapi. Saat ini saya fokus mengembangkan aplikasi web interaktif dan mencari kesempatan untuk berkontribusi pada proyek-proyek inovatif.
+Saya adalah seorang **Fullstack Developer** yang bersemangat dalam membangun solusi digital yang efisien, fungsional, dan berdampak. Saya percaya bahwa teknologi dapat menyederhanakan kehidupan, dan saya selalu siap mempelajari hal-hal baru untuk terus berkembang di dunia pengembangan perangkat lunak.
 
 ---
 
-## 🛠 Keterampilan
+## 👨‍💻 About Me
 
-Berikut adalah teknologi dan alat yang saya kuasai atau sedang saya pelajari:
+Saya adalah pengembang fullstack dengan minat mendalam pada pengembangan aplikasi web interaktif. Fokus utama saya saat ini adalah membangun aplikasi yang skalabel dengan _user experience_ yang optimal. Saya senang memecahkan masalah kompleks dan belajar dari setiap proyek yang saya kerjakan. Dengan latar belakang yang fleksibel, saya terbiasa bekerja di sisi _frontend_ maupun _backend_.
+
+---
+
+## 🛠 Skills
+
+Berikut adalah teknologi yang saya gunakan atau sedang saya eksplorasi:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,java,nodejs,react,nextjs,git,vscode)](https://skillicons.dev)
 
-- **HTML, CSS, JavaScript**: Fondasi pengembangan web.
-- **Python**: Untuk _backend_ dan _scripting_.
-- **Java**: Untuk pengembangan aplikasi.
-- **React**: Untuk library membuat sebuah web.
-- **Next js**: Framework yang aku gunakan untuk membuat web fullstack.
+- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js  
+- **Backend**: Node.js, Express.js, Python  
+- **Tools & Others**: Git, VS Code, REST APIs  
+- **Languages**: JavaScript, Python, Java
 
 ---
 
-## 🚀 Aktivitas & Minat
+## 🚀 Current Activities & Interests
 
-- 👩‍💻 **Saat ini saya sedang mengerjakan...**
+- 🔨 **Sedang Mengerjakan**:
+  - Aplikasi WebApp PWA menggunakan React & Node.js
+  - RESTful API untuk sistem manajemen produk
+  - Mini project untuk memperkaya portofolio
 
-  - Sebuah aplikasi e-commerce menggunakan React dan Node.js.
-  - Membangun API RESTful.
-  - Membuat aplikasi untuk menambah portofolio.
-  - Membangun web app kecil-kecilan
+- 📚 **Sedang Dipelajari**:
+  - Konsep lanjutan React (Hooks, Context, dan SSR)
+  - Desain sistem untuk aplikasi skala besar
+  - Pengembangan backend dengan Express.js dan Node.js
+  - Eksplorasi bahasa pemrograman baru
 
-- 🧠 **Saya sedang belajar...**
+- 🤝 **Terbuka untuk Kolaborasi pada**:
+  - Proyek open-source berbasis fullstack
+  - Aplikasi yang berfokus pada efisiensi dan pengalaman pengguna (_UX_)
 
-  - Konsep-konsep advanced di React Hooks.
-  - Desain sistem untuk aplikasi skala besar.
-  - Backend pakai nodejs dan express js.
-  - Belajar bahasa lain jg
+- 💬 **Topik Diskusi**:
+  - Transisi dari Python ke JavaScript dalam pengembangan web
+  - Tips memulai sebagai fullstack developer
+  - Praktik terbaik dalam pengembangan aplikasi web modern
 
-- 👯‍♀️ **Saya terbuka untuk berkolaborasi pada...**
+---
 
-  - Proyek open-source yang melibatkan pengembangan web fullstack.
-  - Aplikasi yang berfokus pada efisiensi dan _user experience_.
+## 📫 Contact Information
 
-<!-- - 🤔 **Saya sedang mencari bantuan dengan...**
+Saya terbuka untuk koneksi profesional, diskusi teknologi, atau peluang kolaborasi. Jangan ragu untuk menghubungi saya melalui:
 
-  - Optimasi performa database untuk proyek skala besar.
-  - Memahami arsitektur _microservices_ lebih dalam.
-  - _(Jangan ragu untuk bertanya, ini menunjukkan kamu mau belajar.)_ -->
-
-- 💬 **Tanyakan saya tentang...**
-
-  - Pengalaman saya beralih dari Python ke JavaScript untuk pengembangan web.
-  - Tips belajar _fullstack development_ sebagai pemula.
-  - _(Apa topik yang kamu kuasai dan siap untuk didiskusikan?)_
-
-- 📫 **Bagaimana cara menghubungi saya?**
-
-  - **Belum tersedia**
-
-- ⚡️ **Fakta seru:**
-  - Hobiku olahraga
-  - Aku suka mencoba resep masakan baru di waktu luang.
-
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mahasiswa-pied.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://renz-way.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-## Badges
+---
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+## 🎯 Fun Facts
+
+- ⚽ Saya menyukai olahraga, terutama untuk menjaga keseimbangan hidup.
+- 🍳 Di waktu luang, saya suka mencoba resep baru di dapur.
+- 🧩 Saya senang memecahkan tantangan logika dan puzzle digital.
+
+---
+
+## 🏅 Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+---
+
+_Thanks for stopping by! Let's build something awesome together 🚀_
