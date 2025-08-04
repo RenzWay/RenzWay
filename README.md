@@ -1,12 +1,12 @@
 # Halo, saya Renz! 👋
 
-Saya adalah seorang **Fullstack Developer** yang bersemangat dalam membangun solusi digital yang efisien, fungsional, dan berdampak. Saya percaya bahwa teknologi dapat menyederhanakan kehidupan, dan saya selalu siap mempelajari hal-hal baru untuk terus berkembang di dunia pengembangan perangkat lunak.
+Saya adalah seorang **Front-end Developer** yang sedang belajar dan bersemangat dalam membangun solusi digital yang efisien, fungsional, dan berdampak. Saya percaya bahwa teknologi dapat menyederhanakan kehidupan, dan saya selalu siap mempelajari hal-hal baru untuk terus berkembang di dunia pengembangan perangkat lunak.
 
 ---
 
 ## 👨‍💻 About Me
 
-Saya adalah pengembang fullstack dengan minat mendalam pada pengembangan aplikasi web interaktif. Fokus utama saya saat ini adalah membangun aplikasi yang skalabel dengan _user experience_ yang optimal. Saya senang memecahkan masalah kompleks dan belajar dari setiap proyek yang saya kerjakan. Dengan latar belakang yang fleksibel, saya terbiasa bekerja di sisi _frontend_ maupun _backend_.
+Saya adalah pengembang front-end web dengan minat mendalam pada pengembangan aplikasi web interaktif. Fokus utama saya saat ini adalah membangun aplikasi yang skalabel dengan _user experience_ yang optimal. Saya senang memecahkan masalah kompleks dan belajar dari setiap proyek yang saya kerjakan. Dengan latar belakang yang fleksibel ,Meskipun fokus utama saya adalah front-end,  saya sedang belajar di sisi _frontend_ maupun _backend_.
 
 ---
 
@@ -35,10 +35,6 @@ Berikut adalah teknologi yang saya gunakan atau sedang saya eksplorasi:
   - Desain sistem untuk aplikasi skala besar
   - Pengembangan backend dengan Express.js dan Node.js
   - Eksplorasi bahasa pemrograman baru
-
-- 🤝 **Terbuka untuk Kolaborasi pada**:
-  - Proyek open-source berbasis fullstack
-  - Aplikasi yang berfokus pada efisiensi dan pengalaman pengguna (_UX_)
 
 - 💬 **Topik Diskusi**:
   - Transisi dari Python ke JavaScript dalam pengembangan web
