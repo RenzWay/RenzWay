@@ -186,7 +186,7 @@ export default function HomePage() {
               <FaGithub size={32} /> {/* Menggunakan ikon GitHub */}
             </a>
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/narendra-dika-prasoca-33b414313/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:scale-110 transition-transform duration-300 text-gray-600 hover:text-indigo-600"
@@ -194,7 +194,7 @@ export default function HomePage() {
               <FaLinkedin size={32} /> {/* Menggunakan ikon LinkedIn */}
             </a>
             <a
-              href="https://www.instagram.com/zenren_z/"
+              href="https://www.instagram.com/renzzz_178/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:scale-110 transition-transform duration-300 text-gray-600 hover:text-indigo-600"
@@ -204,7 +204,10 @@ export default function HomePage() {
           </div>
 
           <div className="flex sm:justify-center">
-            <button className="bg-indigo-600 text-white font-semibold py-3 px-8 rounded-full shadow-lg hover:shadow-xl hover:bg-indigo-700 transition-all duration-300 transform hover:-translate-y-1">
+            <button
+              onClick={() => alert("Fitur belum ditambahkan")}
+              className="bg-indigo-600 text-white font-semibold py-3 px-8 rounded-full shadow-lg hover:shadow-xl hover:bg-indigo-700 transition-all duration-300 transform hover:-translate-y-1"
+            >
               Download CV
             </button>
           </div>
