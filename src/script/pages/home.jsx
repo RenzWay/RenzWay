@@ -1,12 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { project, skills } from "../model/model";
-import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa"; // Untuk ikon sosial media
-import {
-  AiFillProject,
-  AiOutlineTool,
-  AiOutlineInfoCircle,
-} from "react-icons/ai"; // Contoh ikon untuk project, skill, about
-import { HiOutlineSparkles, HiOutlineBriefcase } from "react-icons/hi"; // Ikon tambahan jika diperlukan
+import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
+import { AiFillProject } from "react-icons/ai";
 import Typed from "typed.js";
 
 // Fungsi untuk menentukan warna badge tools
@@ -19,6 +14,8 @@ function getToolColor(tool) {
       return "bg-gray-900 text-white";
     case "tailwindcss":
       return "bg-sky-100 text-sky-500";
+    case "bootstrap":
+      return "bg-violet-500 text-violet-200";
     case "nodejs":
     case "node":
       return "bg-green-100 text-green-600";
@@ -62,7 +59,6 @@ export default function HomePage() {
     });
 
     return () => {
-      // Destroy Typed instance during cleanup to stop animation
       typed.destroy();
     };
   }, []);
@@ -213,7 +209,7 @@ export default function HomePage() {
           </div>
         </div>
         <img
-          src="https://i.pravatar.cc/300?img=3" // Gambar profil yang lebih besar
+          src="https://i.pravatar.cc/300?img=3"
           alt="Profile"
           className="w-72 h-72 md:w-96 md:h-96 rounded-full object-cover shadow-2xl border-4 border-indigo-400 transform hover:scale-105 transition-transform duration-300 "
           id="profile"

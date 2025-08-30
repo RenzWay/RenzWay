@@ -30,9 +30,16 @@ export const project = [
   {
     id: 5,
     title: "GoNote",
-    description: "Werbsite Todolist versi lite dari mahasiswa center",
+    description: "Website Todolist versi lite dari mahasiswa center",
     tools: ["React", "Webpack", "Babel", "SCSS", "Tailwindcss"],
     link: "https://gonote-center.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "Web Component",
+    description: "Web component bootstrap + react",
+    tools: ["React", "Webpack", "Babel", "SCSS", "Bootstrap"],
+    link: "https://renzway.github.io/web-components/",
   },
 ];
 
