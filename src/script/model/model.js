@@ -41,6 +41,13 @@ export const project = [
     tools: ["React", "Webpack", "Babel", "SCSS", "Bootstrap"],
     link: "https://renzway.github.io/web-components/",
   },
+  {
+    id: 7,
+    title: "Mood Swing",
+    description: "WepApp untuk mencatat mood anda hari ini",
+    tools: ["Vue", "Javascript", "Tailwindcss"],
+    link: "https://mood-swing-979ba.web.app/",
+  },
 ];
 
 export const skills = [
@@ -48,9 +55,7 @@ export const skills = [
   "Next.js",
   "Tailwind CSS",
   "JavaScript",
-  "TypeScript",
   "Node.js",
-  "Express.js",
   "Python",
   "Figma",
   "UI/UX Design",
@@ -58,7 +63,7 @@ export const skills = [
   "HTML",
   "CSS",
   "Java",
-  "Kotlin",
   "Webpack",
   "Vite",
+  "Vue",
 ];

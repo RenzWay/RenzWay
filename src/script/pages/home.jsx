@@ -12,6 +12,9 @@ function getToolColor(tool) {
       return "bg-blue-100 text-blue-600";
     case "nextjs":
       return "bg-gray-900 text-white";
+    case "vue":
+    case "vuejs":
+      return "bg-green-100 text-green-600"; // Warna khas Vue
     case "tailwindcss":
       return "bg-sky-100 text-sky-500";
     case "bootstrap":
@@ -41,6 +44,16 @@ function getToolColor(tool) {
       return "bg-purple-200 text-purple-800";
     case "express":
       return "bg-gray-300 text-gray-800";
+    case "sass":
+      return "bg-pink-100 text-pink-700";
+    case "graphql":
+      return "bg-pink-200 text-pink-800";
+    case "docker":
+      return "bg-blue-200 text-blue-800";
+    case "git":
+      return "bg-orange-200 text-orange-800";
+    case "mongodb":
+      return "bg-green-200 text-green-800";
     default:
       return "bg-gray-200 text-gray-700";
   }
@@ -286,7 +299,7 @@ export default function HomePage() {
           {skills.map((skill) => (
             <span
               key={skill}
-              className="bg-white text-indigo-700 font-medium px-4 py-2 rounded-full shadow-md hover:bg-indigo-100 hover:scale-105 transition-all duration-300"
+              className="bg-white text-indigo-700 font-medium px-4 py-2 rounded-full shadow-md hover:bg-indigo-100 hover:scale-105 transition-all duration-300 select-none"
             >
               {skill}
             </span>
