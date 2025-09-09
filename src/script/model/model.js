@@ -48,6 +48,13 @@ export const project = [
     tools: ["Vue", "Javascript", "Tailwindcss"],
     link: "https://mood-swing-979ba.web.app/",
   },
+  {
+    id: 8,
+    title: "Currentay",
+    description: "Web current tracker",
+    tools: ["Vite", "Javascript", "Bootstrap"],
+    link: "https://currentay.vercel.app/",
+  },
 ];
 
 export const skills = [
