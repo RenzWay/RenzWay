@@ -14,7 +14,7 @@ Saya adalah pengembang front-end web dengan minat mendalam pada pengembangan apl
 
 Berikut adalah teknologi yang saya gunakan atau sedang saya eksplorasi:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,java,nodejs,react,nextjs,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,kotlin,java,nodejs,react,nextjs,git,vscode)](https://skillicons.dev)
 
 - **Frontend**: HTML, CSS, JavaScript, React.js, Next.js  
 - **Backend**: Node.js, Express.js, Python  
