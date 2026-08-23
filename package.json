@@ -4,11 +4,9 @@
   "description": "Seorang **Fullstack Developer** yang selalu bersemangat untuk belajar dan berkembang.",
   "main": "index.js",
   "private": true,
-  "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint ."
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
@@ -22,11 +20,9 @@
   },
   "homepage": "https://github.com/RenzWay/RenzWay#readme",
   "devDependencies": {
-    "@eslint/js": "^10.0.1",
     "@gsap/react": "^2.1.2",
     "@tailwindcss/vite": "^4.1.11",
     "@vitejs/plugin-react": "^4.6.0",
-    "eslint": "^10.9.0",
     "gsap": "^3.13.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
