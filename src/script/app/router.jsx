@@ -15,7 +15,7 @@ const rutes = [
 
 export default function RouterJsx() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/RenzWay/">
             <Routes>
                 {rutes.map((rute) => (
                     <Route path={rute.path} element={rute.element}></Route>
