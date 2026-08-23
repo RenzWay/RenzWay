@@ -23,7 +23,7 @@ export default defineConfig([
     rules: {
       ...js.configs.recommended.rules,
       "no-unused-vars": "warn",
-      "no-undef": "warn",
+      "no-undef": "error",
     },
   },
 ]);

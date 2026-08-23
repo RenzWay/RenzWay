@@ -1,11 +1,24 @@
 # Halo aku Renz 🫡
 
-Aku seorang developer yang suka membuat berbagai hal dari web dan android.
+Aku frontend developer. Aku sering sekali membuat projek iseng atau projek yang biasanya menyelesaikan masalah.
 
-Terkadang aku suka bereksperimen dengan javascript, typescript, dan kotlin, untuk mencoba membuat ide random yang benar-benar berfungsi.
+## Tech Stack
 
-Aku masih perlu banyak belajar, jadi di profile ini adalah hasil kumpulan dari hal-hal yang aku buat.
+JavaScript · TypeScript · React · Kotlin
 
+<p>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
-          
+## Top Project
+
+- Orbit -- Aplikasi file sender p2p, bisa kamu gunakan untuk semua device yang kamu punya.
+
+  [Source code Orbit](https://github.com/RenzWay/orbit)
+
+## Contact
+
+- Github [@RenzWay](https://github.com/RenzWay)

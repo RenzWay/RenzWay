@@ -1,5 +1,6 @@
-import { useRef } from "react";
+import { useRef, useEffect } from "react";
 import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
+import Typed from "typed.js";
 
 export function HeroStats() {
   const el = useRef(null);
