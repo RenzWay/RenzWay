@@ -15,7 +15,7 @@ const rutes = [
 
 export default function RouterJsx() {
   return (
-    <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
         {rutes.map((rute) => (
           <Route path={rute.path} element={rute.element}></Route>
