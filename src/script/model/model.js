@@ -1,5 +1,13 @@
 export const project = [
   {
+    id: 0,
+    title: "Envora",
+    description:
+      "Aplikasi desktop Flutter untuk mengelola variabel lingkungan dan entri PATH yang permanen di Linux.",
+    tools: ["Dart", "Flutter"],
+    link: "https://github.com/RenzWay/envora.git/",
+  },
+  {
     id: 1,
     title: "Orbit",
     description:

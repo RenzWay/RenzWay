@@ -1,4 +1,4 @@
-import { getToolColor,project } from "../script/model/model";
+import { getToolColor, project } from "../script/model/model";
 import { AiFillProject } from "react-icons/ai";
 
 export function ProjectGrid() {
@@ -6,7 +6,8 @@ export function ProjectGrid() {
     <>
       <section
         id="projects"
-        className="px-6 md:px-12 py-16 bg-white bg-opacity-90 backdrop-blur-sm">
+        className="px-6 md:px-12 py-16 bg-white bg-opacity-90 backdrop-blur-sm"
+      >
         <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-10 text-center">
           Featured <span className="text-indigo-600">Projects</span>
         </h2>
@@ -15,7 +16,8 @@ export function ProjectGrid() {
           {project.map((i) => (
             <div
               key={i.id}
-              className="card bg-white rounded-2xl shadow-xl p-6 flex flex-col items-start hover:scale-[1.02] transition-transform duration-300 border border-transparent hover:border-indigo-600 cursor-pointer">
+              className="card bg-white rounded-2xl shadow-xl p-6 flex flex-col items-start hover:scale-[1.02] transition-transform duration-300 border border-transparent hover:border-indigo-600 cursor-pointer"
+            >
               <div className="w-16 h-16 bg-indigo-100 rounded-full flex items-center justify-center mb-4 text-indigo-600">
                 <AiFillProject size={32} /> {/* Menggunakan ikon project */}
               </div>
@@ -29,7 +31,8 @@ export function ProjectGrid() {
                     key={tool}
                     className={`${getToolColor(
                       tool,
-                    )} text-xs font-semibold px-2.5 py-0.5 rounded-full`}>
+                    )} text-xs font-semibold px-2.5 py-0.5 rounded-full`}
+                  >
                     {tool}
                   </span>
                 ))}
@@ -38,7 +41,8 @@ export function ProjectGrid() {
                 href={i.link}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-indigo-600 font-semibold hover:underline flex items-center gap-1 mt-auto">
+                className="text-indigo-600 font-semibold hover:underline flex items-center gap-1 mt-auto"
+              >
                 Lihat Project
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -46,7 +50,8 @@ export function ProjectGrid() {
                   fill="none"
                   viewBox="0 0 24 24"
                   stroke="currentColor"
-                  strokeWidth="2">
+                  strokeWidth="2"
+                >
                   <path
                     strokeLinecap="round"
                     strokeLinejoin="round"
